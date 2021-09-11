@@ -25,8 +25,15 @@ body {
   margin: 33px;
 }
 
-table {
-  margin: 33px;
+header {
+  color: green;
+}
+
+th {
+  padding: 1px 1px 5px;
+}
+
+td {
   padding: 1px 5px 7px;
 }
 
